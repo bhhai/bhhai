@@ -7,8 +7,6 @@ Bui Hoang Hai
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+Bui+Hoang+Hai.;I'm+a+student+in+Hanoi.;I'm+always+expanding+my+tech+stack!)](https://git.io/typing-svg)
 
 
-## Contribution Snake 
-![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
 
 ## My Tech Stack and Tools
 
